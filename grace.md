@@ -20,4 +20,3 @@ Este repositorio fue creado como ejemplo para mostrar cómo estructurar un archi
 ## Contacto
 
 Para más información o colaboración, puedes dejar un mensaje en este repositorio.
-
